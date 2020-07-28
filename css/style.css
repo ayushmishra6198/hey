@@ -1487,6 +1487,9 @@ span.border.two:after {
 	}
 }
 @media(max-width:768px){
+	#jaiho{
+		margin: 4% !important;
+	}
 	#tab1 {
 		margin-left: 16%;
 	}
@@ -1501,12 +1504,18 @@ span.border.two:after {
 		min-height: 367px;
 		margin-left: 7em;
 	}
+	#jaiho{
+		margin: 4% !important;
+	}
 }
 @media(max-width:640px){
 	.news-text {
 	padding: 2em 2em;
 	background: #f4f4f4;
 	width: 98%;
+	}
+	#jaiho{
+		margin: 4% !important;
 	}
 	#tab1 {
 		margin-left: 16% !important;
@@ -1643,6 +1652,9 @@ span.border.two:after {
 	}
 }
 @media(max-width:600px){
+	#jaiho{
+		margin: 4% !important;
+	}
 	#tab1 {
 		margin-left: 16% !important;
 	}
