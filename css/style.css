@@ -1509,7 +1509,7 @@ span.border.two:after {
 	width: 98%;
 	}
 	#tab1 {
-		margin-left: 16%;
+		margin-left: 16% !important;
 	}
 	.mail_right input[type="text"], .mail_right input[type="email"], .mail_right textarea {
 		background: none;
@@ -1644,7 +1644,7 @@ span.border.two:after {
 }
 @media(max-width:600px){
 	#tab1 {
-		margin-left: 16%;
+		margin-left: 16% !important;
 	}
 	.modal-dialog.about {
 		width: 518px;
