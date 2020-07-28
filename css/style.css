@@ -1503,6 +1503,11 @@ span.border.two:after {
 	}
 }
 @media(max-width:640px){
+	.news-text {
+	padding: 2em 2em;
+	background: #f4f4f4;
+	width: 98%;
+	}
 	#tab1 {
 		margin-left: 16%;
 	}
