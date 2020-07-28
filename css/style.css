@@ -1462,6 +1462,9 @@ span.border.two:after {
 	}
 }
 @media(max-width:800px){
+	#tab1 {
+		margin-left: 16%;
+	}
 	.thumb:hover ul li {
 		margin: 113px 0px 0;
 	}
@@ -1489,6 +1492,9 @@ span.border.two:after {
 	}
 }
 @media(max-width:768px){
+	#tab1 {
+		margin-left: 16%;
+	}
 	.about-right {
 		float: none;
 		min-height: 424px;
@@ -1502,6 +1508,9 @@ span.border.two:after {
 	}
 }
 @media(max-width:640px){
+	#tab1 {
+		margin-left: 16%;
+	}
 	.mail_right input[type="text"], .mail_right input[type="email"], .mail_right textarea {
 		background: none;
 		width: 100%;
@@ -1634,6 +1643,9 @@ span.border.two:after {
 	}
 }
 @media(max-width:600px){
+	#tab1 {
+		margin-left: 16%;
+	}
 	.modal-dialog.about {
 		width: 518px;
 		margin: 2em auto 0;
@@ -1650,6 +1662,9 @@ span.border.two:after {
 	}
 }
 @media(max-width:480px){
+	#tab1 {
+		margin-left: 16%;
+	}
 	.wthree_about_right_grids {
 		margin-top:1.5em;
 	}
@@ -1770,6 +1785,9 @@ span.border.two:after {
 	}
 }
 @media(max-width:414px){
+	#tab1 {
+		margin-left: 16%;
+	}
 	span.menu img {
 		width: 91%;
 		margin-top: 8px;
@@ -1844,6 +1862,9 @@ span.border.two:after {
 	}
 }
 @media(max-width:384px){
+	#tab1 {
+		margin-left: 16%;
+	}
 	ul.year li {
 		margin-top: 10px;
 		font-size: 1em;
@@ -1932,8 +1953,14 @@ span.border.two:after {
 		float: right;
 		padding: 0.5em 1em 1.5em 1em;
 	}
+	#tab1 {
+		margin-left: 16%;
+	}
 }
 @media(max-width:320px){
+	#tab1 {
+		margin-left: 16%;
+	}
 	.resp-tab-item {
 		margin: 0 0px 4px 0;
 		padding: 6px 9px;
